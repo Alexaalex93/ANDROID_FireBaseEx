@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "785211644864",
+    "firebase_url": "https://fir-ex-fc22b.firebaseio.com",
+    "project_id": "fir-ex-fc22b",
+    "storage_bucket": "fir-ex-fc22b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785211644864:android:09a977faaf887599",
+        "android_client_info": {
+          "package_name": "com.example.cice.firebaseex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785211644864-nnh2n5ep44nd2a3kqhqfi2jbmhckeeio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkdzVkHlc2AsRplSzUdIncgNth0_c9Pss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
